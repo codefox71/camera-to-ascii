@@ -15,6 +15,10 @@ if you are in windows 10/11 go to command prompt by going to the search bar on y
 
 then you will run the following commands,
 
+```git clone https://github.com/codefox71/camera-to-ascii/tree/main```
+
+and to install the needed libs
+
 ```pip install opencv-python```
 
 and then run
@@ -27,5 +31,7 @@ for the last two run
 
 Note if an error shows up such as this
 ```pip not intsalled or not found``` you can go to this ```https://builtin.com/software-engineering-perspectives/pip-command-not-found``` NOTE: the website provided before is not mine it is just the best results I found to solve this error.
+
+FOR LINUX ITS THE SAME AS ABOVE
 
 HAVE FUN, more will be added to the script but for now its open to use and mod, explained in thee License
