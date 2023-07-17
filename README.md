@@ -15,7 +15,7 @@ if you are in windows 10/11 go to command prompt by going to the search bar on y
 
 then you will run the following commands,
 
-```git clone https://github.com/codefox71/camera-to-ascii/tree/main```
+```git clone https://github.com/codefox71/camera-to-ascii```
 
 and to install the needed libs
 
